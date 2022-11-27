@@ -6,4 +6,7 @@ safety analysis of NNCs remains an open problem. Existing verification approache
 of DeepNNC to handle a real-world, practical, and complex system.
 
 ##
-Note: This work is accepted by the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023). Our verification tool will be released soon via this repository.
+
+### Note: This work is just accepted by the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023). Now we are preparing for the final version of this work. Our tool will be released soon via this repository.
+
+-- Wenjie Ruan
